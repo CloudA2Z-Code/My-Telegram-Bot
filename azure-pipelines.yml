@@ -6,8 +6,7 @@
 trigger:
 - master
 
-pool:
-  vmImage: self-hosted-agent-pool
+pool: self-hosted-agent-pool
 
 variables:
   buildConfiguration: 'Release'
