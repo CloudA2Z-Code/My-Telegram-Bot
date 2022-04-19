@@ -11,7 +11,7 @@ using Telegram.Bot.Args;
 
 namespace TAG_TGM_Messaging_App
 {
-    // To learn more about Microsoft Azure WebJobs SDK, please see https://go.microsoft.com/fwlink/?LinkID=320976
+    /// To learn more about Microsoft Azure WebJobs SDK, please see https://go.microsoft.com/fwlink/?LinkID=320976
     class Program
     {
         // Add the api token got from @Botfather from telegram
